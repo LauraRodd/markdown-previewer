@@ -8,6 +8,8 @@ This project was built with React for the *Frontend Libraries* certification fro
 - React Bootstrap
 - Marked.js
 
+### View [live](https://laurarodd.github.io/markdown-previewer/)
+
 ----------------
 
 
