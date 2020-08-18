@@ -8,7 +8,7 @@ This project was built with React for the *Frontend Libraries* certification fro
 - React Bootstrap
 - Marked.js
 
-
+----------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
